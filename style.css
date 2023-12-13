@@ -77,7 +77,6 @@ nav button{
 }
 
 nav button:hover{
-    background-color: #5e3bee;
     border-color: #5e3bee;
     color: #fff;
 }
@@ -123,9 +122,9 @@ nav button#menuButton{
 
 .main .left button{
     margin-top: 40px;
-    color: #fff;
+    color: #1c1e53;
     cursor: pointer;
-    background-color: #5e3bee;
+    background-color: #fff;
     padding: 14px 24px;
     border: 1px solid transparent;
     border-radius: 5px;
